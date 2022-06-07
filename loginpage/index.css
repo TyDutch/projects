@@ -1,0 +1,30 @@
+
+body {
+    background-color:grey
+}
+
+
+h1 {
+    color:hotpink;
+    text-align: center;
+}
+p {
+    color:cyan;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    width: auto;
+}
+
+button {
+    margin: 0 auto;
+    display: block;
+    background-color: royalblue;
+}
+
+label {
+    display: inline-block;
+    
+}
