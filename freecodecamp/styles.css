@@ -1,9 +1,14 @@
 body {
+<<<<<<< HEAD
     background-color: lightgrey
+=======
+    display: block;
+>>>>>>> 8b6e43a0262429c2b5f026ecbf2cb4485cc03244
 }
 
 h1 {
     text-align: center;
+<<<<<<< HEAD
     display: block;
     margin: 0 auto;
     width: 100%;
@@ -78,4 +83,44 @@ div {
     padding: 100px;
     text-align: left;
 
+=======
+    width: 100%;
+    margin: 0 auto;
+    font-weight: 400;
+    line-height: 1.2;
+}
+
+p {
+    text-align: center;
+    width: 100;
+    margin: 0 auto;
+    font-style: italic;
+}
+
+#name-label {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#email-label {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#number-label {
+    width: 100%;
+    margin: 0 auto;
+}
+
+div {
+    text-align: center;
+}
+
+select {
+    margin: 0 auto;
+}
+
+label {
+    width: 100%
+>>>>>>> 8b6e43a0262429c2b5f026ecbf2cb4485cc03244
 }
