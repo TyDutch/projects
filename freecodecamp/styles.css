@@ -2,6 +2,11 @@ body {
     display: block;
 }
 
+form {
+    padding: 2.5rem;
+    width: 100%;
+}
+
 h1 {
     text-align: center;
     width: 100%;
@@ -44,5 +49,14 @@ select {
 }
 
 label {
+<<<<<<< HEAD
     width: 100%
+=======
+    width: 100%;
+}
+
+#number {
+    width: 15%;
+    margin: 0 auto;
+>>>>>>> d0f26dc999b6096081e6c67251c9a2a78719d04a
 }
