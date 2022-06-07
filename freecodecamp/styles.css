@@ -1,14 +1,9 @@
 body {
-<<<<<<< HEAD
     display: block;
-=======
-    background-color: lightgrey
->>>>>>> c197fc69b7f678eb31dea8aeb3f14c2f5801525f
 }
 
 h1 {
     text-align: center;
-<<<<<<< HEAD
     width: 100%;
     margin: 0 auto;
     font-weight: 400;
@@ -20,19 +15,6 @@ p {
     width: 100;
     margin: 0 auto;
     font-style: italic;
-=======
-    display: block;
-    margin: 0 auto;
-    width: 100%;
-    font-style: italic
-}
-
-p{
-    text-align: center;
-    display: block;
-    margin: 0 auto;
-    width: 100%
->>>>>>> c197fc69b7f678eb31dea8aeb3f14c2f5801525f
 }
 
 #name-label {
@@ -62,9 +44,5 @@ select {
 }
 
 label {
-<<<<<<< HEAD
     width: 100%
-=======
-    width: 100%;
->>>>>>> c197fc69b7f678eb31dea8aeb3f14c2f5801525f
 }
