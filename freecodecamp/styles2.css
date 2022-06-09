@@ -1,12 +1,12 @@
 header {
     position: fixed;
     top: 0;
-    min-height: 75px;
+    height: 75px;
     padding: 0px 20px;
-    margin-bottom: 20px;
     display: flex;
     justify-content: space-around;
     align-items: center;
+    row-gap: 30px;
     background-color: white;
 }
 
@@ -38,8 +38,39 @@ ul {
     padding-inline-start: 40px;
 }
 
-#container {
+.container {
     max-width: 1000px;
     width: 100%;
     margin: 0 auto;
+    height: 40px;
+    margin-top: 75px;
+}
+
+iframe {
+    margin: 0 auto;
+    display: block;
+}
+
+#desc {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+.logo {
+    width: 60vw;
+}
+
+#pricing {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+    margin-top: 50px;
 }
