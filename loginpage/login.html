@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <link rel="stylesheet" href="index.css">
+    <script type="text/javascript" src="function.js"></script>
     <title> Login Form </title>
 </head>
 <body>
@@ -10,14 +11,14 @@
     </main>
 <div class="login" style="text-align:center">
     <label for="email">Enter Email:</label><br>
-    <input type="email" placeholder="Type Here" name="name" required>    
+    <input id="email" type="email" placeholder="Type Here" name="name" required>    
 </div>
 <br>
 <div>
     <label for="password">Enter Password:</label><br>
-    <input type="password" placeholder="Type Here" name="psw" required>
+    <input id="password" type="password" placeholder="Type Here" name="psw" required>
 </div>  
 <p>Click here to submit!</p>    
-    <button>Submit</button>
+    <button onclick="loginOnClick();">Submit</button>
 </body>
 </html>
