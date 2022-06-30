@@ -21,6 +21,7 @@ function loginOnClick()
         alert (user);
         alert (password);
     }    
-console.log("HERE");
+    
+    console.log("HERE");
     return false;
 }
