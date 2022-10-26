@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "ftp": "^0.3.10",
-    "ftp-client": "^0.2.2"
-  }
-}
